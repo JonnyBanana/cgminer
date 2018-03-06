@@ -1,4 +1,8 @@
-This is a multi-threaded multi-pool FPGA and ASIC miner for bitcoin.
+I'm a Min
+
+
+
+his is a multi-threaded multi-pool FPGA and ASIC miner for bitcoin.
 
 This code is provided entirely free of charge by the programmer in his spare
 time so donations would be greatly appreciated. Please consider donating to the
