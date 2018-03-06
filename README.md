@@ -1,4 +1,7 @@
-I'm a Min
+$$$ M1n1nG L0v3RzZz $$$
+
+
+![Alt text](https://i.imgur.com/zOwgLBr.jpg "$$$ M1n1nG L0v3RzZz $$$")
 
 
 
